@@ -1,3 +1,3 @@
 # MDPlus
 A Tool For Creating Advanced Markdown Files
-![StuffzEZ Website GitHub](https://stuffzez.github.io)
+![StuffzEZ Website GitHub](https://stuffzez.github.io/library/images/stuffzezlogo.png)
